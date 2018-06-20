@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gradients_fractional_offsets.iml" filepath="$PROJECT_DIR$/gradients_fractional_offsets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gradients_fractional_offsets_android.iml" filepath="$PROJECT_DIR$/gradients_fractional_offsets_android.iml" />
+    </modules>
+  </component>
+</project>
